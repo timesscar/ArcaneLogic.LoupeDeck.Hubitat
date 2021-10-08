@@ -6,7 +6,7 @@
     <ProjectGuid>{8213064A-EFA1-4F0E-B2C0-227DB639C457}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Loupedeck.AudioDevicePlugin</RootNamespace>
+    <RootNamespace>Loupedeck.HubitatPlugin</RootNamespace>
     <AssemblyName>AudioDevicePlugin</AssemblyName>
     <TargetFramework>net472</TargetFramework>
     <FileAlignment>512</FileAlignment>
