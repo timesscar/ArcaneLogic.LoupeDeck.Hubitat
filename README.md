@@ -1,4 +1,4 @@
-# ArcaneLogic.LoupeDeck.WindowsAudio
+# ArcaneLogic.LoupeDeck.Hubitat
 
 This is a basic [Loupedeck](https://loupedeck.com/us/) plugin that enables toggling devices connected to a Hubitat home automation node.
 
